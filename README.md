@@ -1,10 +1,6 @@
 ## <p align="center">Computer Science Student, UNIT - Universidade Tiradentes.</p>
 
 <div align="center">
-  <img alt="obsessive" width="300px" height="400px" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/obsessive.jpg">
-</div>
-
-<div align="center">
   <img alt="miguel-stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomiguel2004&show_icons=&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img alt="miguel-languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiguel2004&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -26,5 +22,9 @@
 ## Future Learnings
 <div align="center">
   <img alt="miguel-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</div>
+
+<div align="right">
+  <img alt="obsessive" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/">
 </div>
 
