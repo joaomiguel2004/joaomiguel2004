@@ -24,7 +24,7 @@
   <img alt="miguel-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
-<div align="right">
-  <img alt="obsessive" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/">
+<div align="center">
+  <br><img alt="obsessive" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/obsession.jpg">
 </div>
 
