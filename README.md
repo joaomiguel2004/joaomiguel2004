@@ -25,6 +25,6 @@
 </div>
 
 <div align="center">
-  <br><img alt="obsessive" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/obsession.jpg">
+  <br><img alt="obsessive" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/obsession.png">
 </div>
 
