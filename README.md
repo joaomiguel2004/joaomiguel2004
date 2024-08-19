@@ -16,6 +16,7 @@
   <img alt="miguel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="miguel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img alt="miguel-EN" height="30" width="40" src="https://i.pinimg.com/564x/4c/a5/e1/4ca5e18c26eecb9899187b0093a8c0cc.jpg">
 </div>
 
 ## Future Learnings
