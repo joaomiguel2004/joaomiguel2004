@@ -1,7 +1,7 @@
 ## <p align="center">Computer Science Student, UNIT - Universidade Tiradentes.</p>
 
-<div>
-  
+<div align="center">
+  <img alt="obsessive" width="300px" height="400px" src="https://github.com/joaomiguel2004/joaomiguel2004/blob/main/obsessive.jpg">
 </div>
 
 <div align="center">
